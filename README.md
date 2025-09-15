@@ -1,17 +1,17 @@
-🔐 Password Generator (CodSoft Internship - Task 3)
+🧮 Calculator (CodSoft Internship - Task 2)
 
 This project is part of my **CodSoft Internship**.  
-A **Password Generator** is a useful tool that creates strong and random passwords for users, improving security and privacy.  
+The **Calculator** is a Python-based program that performs basic arithmetic and scientific operations.  
 
 ---
-
 📌 Features
-  ✅ User-defined password length  
-  ✅ Random combination of letters, digits, and special characters  
-  ✅ Generates strong & secure passwords instantly  
-  ✅ Console-based Python application  
+ ✅ Addition, Subtraction, Multiplication, Division  
+ ✅ Modulus (%)  
+ ✅ Power (x^y)  
+ ✅ Square Root (√x)  
+ ✅ User-friendly console interface  
 
+---
 🛠️ Technologies Used
  Python 3  
- `random` module  
- `string` module  
+ `math` module  
